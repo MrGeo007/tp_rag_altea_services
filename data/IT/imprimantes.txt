@@ -1,0 +1,5 @@
+Imprimantes
+
+Les imprimantes sont partagées à chaque étage. Pour imprimer, envoyez le document vers la file AltéaPrint, puis badgez sur l'imprimante pour lancer l'impression.
+
+Les documents non récupérés sont supprimés après 24 heures. En cas de bourrage papier, contactez l'accueil de l'étage.

@@ -1,0 +1,5 @@
+Mot de passe oublié
+
+Pour réinitialiser votre mot de passe, allez sur le portail reset.altea.example et cliquez sur « Mot de passe oublié ». Un code de validation est envoyé sur votre téléphone professionnel.
+
+Le mot de passe doit contenir au moins 12 caractères et être changé tous les 6 mois. En cas de blocage, appelez le support IT au 4500.
